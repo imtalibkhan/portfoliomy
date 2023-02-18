@@ -1,10 +1,11 @@
 import React from "react";
 import styled from "styled-components";
 
+
 import onnbike from "../../assets/homepa.png";
 import nike from "../../assets/nike.png";
 import movieapp from "../../assets/bingstar.png";
-import app from "../../assets/app.png";
+// import app from "../../assets/app.png";
 import youtube from "../../assets/youtubee.png";
 import React_app from "../../assets/react_web.png";
 // import slack from '../../assets/Slack.PNG'
@@ -333,7 +334,7 @@ function Project() {
             </a>
 
             <a
-              href=""
+              // href=""
               target="_blank"
               rel="noopener noreferrer"
             >
